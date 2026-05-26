@@ -9,6 +9,9 @@ Bu proje, öğrencilerin ".edu.tr" e-posta adresleriyle üye olabildikleri, güv
 2. **Hitl-STUCK (Uzman Müdahalesi)**: Yapay zekanın tıkandığı veya mimari kararlarda destek istediği durumlarda WebRTC tabanlı (Jitsi) bir video konferans odası otonom olarak tetiklenir.
 3. **Engineering Probes**: Fikirlerin Slop-Check aşamasından geçirilerek en saf mimari limitlerinin ("Core Problem", "Core Mechanic", "Scope Cut") belirlenmesi sağlanmıştır.
 
+## 🎥 Demo Video
+- **YouTube Linki**: [Nokta_ AI Assistant - Halka Kapanışı Demo](https://youtu.be/a_TuSDbwx9E?si=ckH_eT9OuL0Ezy6z)
+
 ## Dosya Yapısı
 - `app/`: Expo React Native projesinin ana dizini.
 - `avatar.glb`: Avaturn.me üzerinden dışa aktarılmış, projeye özel kullanıcı yüzü.
